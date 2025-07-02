@@ -4,7 +4,7 @@ const countries = [
     name: "India",
     capital: "New Delhi",
     flag: "https://flagcdn.com/in.svg",
-    languages: ["Hindi", "English"],
+    languages: ["Hindi ", "English"],
     nationalLeader: "Droupadi Murmu (President), Narendra Modi (Prime Minister)"
   },
   {

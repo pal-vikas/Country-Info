@@ -11,8 +11,6 @@ function Navbar()
                     <div className="flex gap-3 text-xl font-medium">
                         {/* <a href="/requests">Requests</a> */}
                         <Link to={'/Country' }>Country</Link>
-                        {/* <a href="/about">About Us</a> */}
-                        <Link to={'/About'}>About Us</Link>
                         <Link to={'/contact'}>Contact Us</Link>
                     </div>
                 </div>
